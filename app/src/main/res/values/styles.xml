@@ -1,0 +1,12 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="ThemeOverlay.AppCompat.DayNight.ActionBar">
+        <item name="colorPrimary">@color/bar</item>
+        <item name="colorPrimaryDark">@color/bar</item>
+        <item name="colorAccent">@color/bar</item>
+        <item name="android:statusBarColor">@android:color/white</item>
+    </style>
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.DayNight.ActionBar" />
+
+</resources>
